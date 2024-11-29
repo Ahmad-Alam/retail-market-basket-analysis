@@ -1,0 +1,244 @@
+support,itemsets,length
+0.021687526974536037,frozenset({'3 Stripey Mice Feltcraft'}),1
+0.03916702632714717,frozenset({'6 Ribbons Rustic Charm'}),1
+0.025140267587397496,frozenset({'60 Cake Cases Vintage Christmas'}),1
+0.035444540353905915,frozenset({'60 Teatime Fairy Cake Cases'}),1
+0.027028485110056108,frozenset({'72 Sweetheart Fairy Cake Cases'}),1
+0.04256581786793267,frozenset({'Alarm Clock Bakelike Green'}),1
+0.025248165731549418,frozenset({'Alarm Clock Bakelike Ivory'}),1
+0.03307078118256366,frozenset({'Alarm Clock Bakelike Pink'}),1
+0.047313336210617174,frozenset({'Alarm Clock Bakelike Red'}),1
+0.028808804488562798,frozenset({'Antique Silver T-Light Glass'}),1
+0.02017695295640915,frozenset({'Area Patrolled Metal Sign'}),1
+0.0741799741044454,frozenset({'Assorted Colour Bird Ornament'}),1
+0.04607250755287009,frozenset({'Baking Set 9 Piece Retrospot'}),1
+0.022874406560207165,frozenset({'Baking Set Spaceboy Design'}),1
+0.022604661199827365,frozenset({'Bathroom Metal Sign'}),1
+0.02789167026327147,frozenset({'Blue Harmonica In Box'}),1
+0.022928355632283126,frozenset({'Charlotte Bag Apples Design'}),1
+0.026273198100992663,frozenset({'Charlotte Bag Pink Polkadot'}),1
+0.03156020716443677,frozenset({'Charlotte Bag Suki Design'}),1
+0.02416918429003021,frozenset({'Childrens Apron Spaceboy Design'}),1
+0.027999568407423393,frozenset({'Chilli Lights'}),1
+0.0377643504531722,frozenset({'Chocolate Hot Water Bottle'}),1
+0.02017695295640915,frozenset({'Chocolate This Way Metal Sign'}),1
+0.022712559343979283,frozenset({'Christmas Craft Little Friends'}),1
+0.03447345705653863,frozenset({'Clothes Pegs Retrospot Pack 24'}),1
+0.028539059128182994,frozenset({'Colour Glass T-Light Holder Hanging'}),1
+0.0324773413897281,frozenset({'Cook With Wine Metal Sign'}),1
+0.02438498057833405,frozenset({'Cream Heart Card Holder'}),1
+0.02400733707380233,frozenset({'Cream Sweetheart Mini Chest'}),1
+0.03323262839879154,frozenset({'Dolly Girl Lunch Box'}),1
+0.021417781614156237,frozenset({'Doormat Fancy Font Home Sweet Home'}),1
+0.02589555459646094,frozenset({'Doormat Hearts'}),1
+0.03495899870522227,frozenset({'Doormat Keep Calm And Come In'}),1
+0.028646957272334916,frozenset({'Doormat New England'}),1
+0.03107466551575313,frozenset({'Doormat Red Retrospot'}),1
+0.02184937419076392,frozenset({'Doormat Spotty Home Sweet Home'}),1
+0.02783772119119551,frozenset({'Doormat Union Flag'}),1
+0.02039274924471299,frozenset({'Edwardian Parasol Natural'}),1
+0.02379154078549849,frozenset({'Enamel Flower Jug Cream'}),1
+0.020446698316788952,frozenset({'Fawn Blue Hot Water Bottle'}),1
+0.024870522227017695,frozenset({'Feltcraft 6 Flower Friends'}),1
+0.02352179542511869,frozenset({'Feltcraft Butterfly Hearts'}),1
+0.022496763055675443,frozenset({'Feltcraft Cushion Owl'}),1
+0.021633577902460076,frozenset({'Feltcraft Princess Charlotte Doll'}),1
+0.02039274924471299,frozenset({'Feltcraft Princess Lola Doll'}),1
+0.034257660768234784,frozenset({'Gardeners Kneeling Pad Cup Of Tea'}),1
+0.04078549848942598,frozenset({'Gardeners Kneeling Pad Keep Calm'}),1
+0.03533664220975399,frozenset({'Gin + Tonic Diet Metal Sign'}),1
+0.029887785930082,frozenset({'Gingerbread Man Cookie Cutter'}),1
+0.03727880880448856,frozenset({'Green Regency Teacup And Saucer'}),1
+0.02756797583081571,frozenset({'Grey Heart Hot Water Bottle'}),1
+0.030750971083297367,frozenset({'Gumball Coat Rack'}),1
+0.031829952524816574,frozenset({'Hand Over The Chocolate   Sign'}),1
+0.02557186016400518,frozenset({'Hand Warmer Bird Design'}),1
+0.03085886922744929,frozenset({'Hand Warmer Owl Design'}),1
+0.02001510574018127,frozenset({'Hand Warmer Red Love Heart'}),1
+0.025410012947777297,frozenset({'Hand Warmer Scotty Dog Design'}),1
+0.02379154078549849,frozenset({'Hand Warmer Union Jack'}),1
+0.03085886922744929,frozenset({'Hanging Heart Jar T-Light Holder'}),1
+0.022227017695295642,frozenset({'Hanging Heart Zinc T-Light Holder'}),1
+0.04321320673284419,frozenset({'Heart Of Wicker Large'}),1
+0.05184505826499784,frozenset({'Heart Of Wicker Small'}),1
+0.03727880880448856,frozenset({'Home Building Block Word'}),1
+0.027945619335347432,frozenset({'Homemade Jam Scented Candles'}),1
+0.020770392749244714,frozenset({'Hot Baths Metal Sign'}),1
+0.027244281398359948,frozenset({'Hot Water Bottle I Am So Poorly'}),1
+0.03878938282261545,frozenset({'Hot Water Bottle Keep Calm'}),1
+0.027729823047043592,frozenset({'Hot Water Bottle Tea And Sympathy'}),1
+0.021094087181700475,frozenset({'Ivory Diner Wall Clock'}),1
+0.033448424687095385,frozenset({'Ivory Kitchen Scales'}),1
+0.04682779456193353,frozenset({'Jam Making Set Printed'}),1
+0.047421234354769096,frozenset({'Jam Making Set With Jars'}),1
+0.03501294777729823,frozenset({'Jumbo  Bag Baroque Black White'}),1
+0.03161415623651273,"frozenset({""Jumbo Bag 50'S Christmas""})",1
+0.04056970220112214,frozenset({'Jumbo Bag Alphabet'}),1
+0.03873543375053949,frozenset({'Jumbo Bag Apples'}),1
+0.024492878722485973,frozenset({'Jumbo Bag Doiley Patterns'}),1
+0.02217306862321968,frozenset({'Jumbo Bag Owls'}),1
+0.02535606387570134,frozenset({'Jumbo Bag Pears'}),1
+0.046989641778161416,frozenset({'Jumbo Bag Pink Polkadot'}),1
+0.0324773413897281,frozenset({'Jumbo Bag Pink Vintage Paisley'}),1
+0.08631851532153648,frozenset({'Jumbo Bag Red Retrospot'}),1
+0.024331031506258094,frozenset({'Jumbo Bag Scandinavian Blue Paisley'}),1
+0.02578765645230902,frozenset({'Jumbo Bag Spaceboy Design'}),1
+0.03528269313767803,frozenset({'Jumbo Bag Strawberry'}),1
+0.020770392749244714,frozenset({'Jumbo Bag Vintage Christmas'}),1
+0.03350237375917134,frozenset({'Jumbo Bag Vintage Doily'}),1
+0.04164868364264135,frozenset({'Jumbo Bag Vintage Leaf'}),1
+0.026542943461372464,frozenset({'Jumbo Bag Woodland Animals'}),1
+0.04261976694000863,frozenset({'Jumbo Shopper Vintage Red Paisley'}),1
+0.025410012947777297,frozenset({'Jumbo Storage Bag Skulls'}),1
+0.04175658178679327,frozenset({'Jumbo Storage Bag Suki'}),1
+0.02756797583081571,frozenset({'Large White Heart Of Wicker'}),1
+0.029941735002157962,frozenset({'Love Building Block Word'}),1
+0.024223133362106172,frozenset({'Love Hot Water Bottle'}),1
+0.05675442382391023,frozenset({'Lunch Bag  Black Skull.'}),1
+0.03490504963314631,frozenset({'Lunch Bag Alphabet Design'}),1
+0.04671989641778161,frozenset({'Lunch Bag Apple Design'}),1
+0.05211480362537765,frozenset({'Lunch Bag Cars Blue'}),1
+0.025032369443245578,frozenset({'Lunch Bag Doiley Pattern'}),1
+0.032261545101424254,frozenset({'Lunch Bag Dolly Girl Design'}),1
+0.05022658610271903,frozenset({'Lunch Bag Pink Polkadot'}),1
+0.06948640483383686,frozenset({'Lunch Bag Red Retrospot'}),1
+0.05330168321104877,frozenset({'Lunch Bag Spaceboy Design'}),1
+0.048500215796288305,frozenset({'Lunch Bag Suki Design'}),1
+0.029024600776866638,frozenset({'Lunch Bag Vintage Doily'}),1
+0.03220759602934829,frozenset({'Lunch Bag Vintage Leaf Design'}),1
+0.04423823910228744,frozenset({'Lunch Bag Woodland'}),1
+0.027190332326283987,frozenset({'Lunch Box I Love London'}),1
+0.0521687526974536,frozenset({'Natural Slate Heart Chalkboard'}),1
+0.020716443677168753,frozenset({'No Singing Metal Sign'}),1
+0.02060854553301683,frozenset({'Pack Of 12 London Tissues'}),1
+0.028754855416486837,frozenset({'Pack Of 20 Napkins Pantry Design'}),1
+0.028539059128182994,frozenset({'Pack Of 60 Dinosaur Cake Cases'}),1
+0.03609192921881744,frozenset({'Pack Of 60 Pink Paisley Cake Cases'}),1
+0.021957272334915838,frozenset({'Pack Of 60 Spaceboy Cake Cases'}),1
+0.055513595166163145,frozenset({'Pack Of 72 Retrospot Cake Cases'}),1
+0.026920586965904186,frozenset({'Pack Of 72 Skull Cake Cases'}),1
+0.02017695295640915,frozenset({'Pantry Magnetic  Shopping List'}),1
+0.030643072939145446,frozenset({'Paper Bunting Retrospot'}),1
+0.052870090634441085,"frozenset({""Paper Chain Kit 50'S Christmas""})",1
+0.02017695295640915,frozenset({'Paper Chain Kit Empire'}),1
+0.02395338800172637,frozenset({'Paper Chain Kit Retrospot'}),1
+0.03760250323694433,frozenset({'Paper Chain Kit Vintage Christmas'}),1
+0.0744497194648252,frozenset({'Party Bunting'}),1
+0.02001510574018127,frozenset({'Party Metal Sign'}),1
+0.024492878722485973,frozenset({'Photo Frame Cornice'}),1
+0.024654725938713856,frozenset({'Pink Blue Felt Craft Trinket Box'}),1
+0.028862753560638756,frozenset({'Pink Cream Felt Craft Trinket Box'}),1
+0.021417781614156237,frozenset({'Pink Fairy Cake Childrens Apron'}),1
+0.029995684074233923,frozenset({'Pink Regency Teacup And Saucer'}),1
+0.028107466551575314,frozenset({'Plasters In Tin Circus Parade'}),1
+0.023737591713422528,frozenset({'Plasters In Tin Skulls'}),1
+0.03123651273198101,frozenset({'Plasters In Tin Spaceboy'}),1
+0.024223133362106172,frozenset({'Plasters In Tin Strongman'}),1
+0.02589555459646094,frozenset({'Plasters In Tin Vintage Paisley'}),1
+0.03166810530858869,frozenset({'Plasters In Tin Woodland Animals'}),1
+0.037440656020716445,frozenset({'Please One Person Metal Sign'}),1
+0.03409581355200691,frozenset({'Popcorn Holder'}),1
+0.05929003021148036,frozenset({'Postage'}),1
+0.02001510574018127,frozenset({'Pottering In The Shed Metal Sign'}),1
+0.04321320673284419,frozenset({'Rabbit Night Light'}),1
+0.04466983167889512,frozenset({'Recipe Box Pantry Yellow Design'}),1
+0.02379154078549849,frozenset({'Recipe Box Retrospot'}),1
+0.021957272334915838,frozenset({'Recycling Bag Retrospot'}),1
+0.030265429434613723,frozenset({'Red  Harmonica In Box'}),1
+0.022442813983599482,frozenset({'Red Diner Wall Clock'}),1
+0.03663141993957704,frozenset({'Red Hanging Heart T-Light Holder'}),1
+0.024223133362106172,frozenset({'Red Kitchen Scales'}),1
+0.022712559343979283,frozenset({'Red Retrospot Cake Stand'}),1
+0.039868364264134655,frozenset({'Red Retrospot Charlotte Bag'}),1
+0.020770392749244714,frozenset({'Red Retrospot Picnic Bag'}),1
+0.020716443677168753,frozenset({'Red Retrospot Shopper Bag'}),1
+0.02816141562365127,frozenset({'Red Toadstool Led Night Light'}),1
+0.09192921881743633,frozenset({'Regency Cakestand 3 Tier'}),1
+0.028754855416486837,frozenset({'Retrospot Heart Hot Water Bottle'}),1
+0.044400086318515324,frozenset({'Retrospot Tea Set Ceramic 11 Pc'}),1
+0.04634225291324989,frozenset({'Rex Cash+Carry Jumbo Shopper'}),1
+0.04224212343547691,frozenset({'Roses Regency Teacup And Saucer'}),1
+0.024708675010789813,frozenset({'Round Snack Boxes Set Of 4 Fruits'}),1
+0.03209969788519638,frozenset({'Round Snack Boxes Set Of4 Woodland'}),1
+0.035390591281829954,frozenset({'Scottie Dog Hot Water Bottle'}),1
+0.025086318515321535,frozenset({'Set Of 12 Fairy Cake Baking Cases'}),1
+0.022442813983599482,frozenset({'Set Of 20 Kids Cookie Cutters'}),1
+0.026381096245144585,frozenset({'Set Of 20 Vintage Christmas Napkins'}),1
+0.026866637893828225,frozenset({'Set Of 3 Butterfly Cookie Cutters'}),1
+0.06182563659905049,frozenset({'Set Of 3 Cake Tins Pantry Design'}),1
+0.028107466551575314,frozenset({'Set Of 3 Heart Cookie Cutters'}),1
+0.03873543375053949,frozenset({'Set Of 3 Regency Cake Tins'}),1
+0.020986189037548553,frozenset({'Set Of 3 Wooden Heart Decorations'}),1
+0.04671989641778161,frozenset({'Set Of 4 Pantry Jelly Moulds'}),1
+0.03522874406560207,frozenset({'Set Of 6 Spice Tins Pantry Design'}),1
+0.027190332326283987,frozenset({'Set Of 60 Pantry Design Cake Cases'}),1
+0.020770392749244714,frozenset({'Set Of Tea Coffee Sugar Tins Pantry'}),1
+0.039490720759602936,frozenset({'Set/20 Red Retrospot Paper Napkins'}),1
+0.0411631419939577,frozenset({'Set/5 Red Retrospot Lid Glass Bowls'}),1
+0.021741476046611998,frozenset({'Small Popcorn Holder'}),1
+0.031398359948208894,frozenset({'Small White Heart Of Wicker'}),1
+0.021255934397928354,frozenset({'Spaceboy Birthday Card'}),1
+0.03798014674147605,frozenset({'Spaceboy Lunch Box'}),1
+0.05411091929218818,frozenset({'Spotty Bunting'}),1
+0.02735217954251187,frozenset({'Strawberry Ceramic Trinket Box'}),1
+0.026542943461372464,frozenset({'Strawberry Charlotte Bag'}),1
+0.022982304704359083,frozenset({'Strawberry Lunch Box With Cutlery'}),1
+0.02055459646094087,frozenset({'Sweetheart Ceramic Trinket Box'}),1
+0.027460077686663788,frozenset({'Traditional Knitting Nancy'}),1
+0.02357574449719465,frozenset({'Travel Card Wallet Keep Calm'}),1
+0.021255934397928354,frozenset({'Travel Sewing Kit'}),1
+0.04396849374190764,frozenset({'Victorian Glass Hanging T-Light'}),1
+0.02616529995684074,frozenset({'Vintage Heads And Tails Card Game'}),1
+0.038951230038843335,frozenset({'Vintage Snap Cards'}),1
+0.021094087181700475,frozenset({'Vintage Union Jack Bunting'}),1
+0.10633362106171775,frozenset({'White Hanging Heart T-Light Holder'}),1
+0.02039274924471299,frozenset({'White Skull Hot Water Bottle'}),1
+0.020446698316788952,frozenset({'White Wood Garden Plant Ladder'}),1
+0.027460077686663788,frozenset({'Wood 2 Drawer Cabinet White Finish'}),1
+0.03258523953388002,frozenset({'Wood Black Board Ant White Finish'}),1
+0.02012300388433319,frozenset({'Wood S/3 Cabinet Ant White Finish'}),1
+0.024223133362106172,frozenset({'Wooden Box Of Dominoes'}),1
+0.0437526974536038,frozenset({'Wooden Frame Antique White'}),1
+0.024978420371169617,frozenset({'Wooden Heart Christmas Scandinavian'}),1
+0.04725938713854122,frozenset({'Wooden Picture Frame White Finish'}),1
+0.021309883470004315,frozenset({'Wooden School Colouring Set'}),1
+0.023359948208890806,frozenset({'Wooden Star Christmas Scandinavian'}),1
+0.028646957272334916,frozenset({'Woodland Charlotte Bag'}),1
+0.025463962019853258,frozenset({'World War 2 Gliders Asstd Designs'}),1
+0.0256797583081571,frozenset({'Zinc Metal Heart Decoration'}),1
+0.028593008200258955,"frozenset({'Alarm Clock Bakelike Green', 'Alarm Clock Bakelike Red'})",2
+0.021363832542080276,"frozenset({'Alarm Clock Bakelike Red', 'Alarm Clock Bakelike Pink'})",2
+0.022874406560207165,"frozenset({'Spaceboy Lunch Box', 'Dolly Girl Lunch Box'})",2
+0.024978420371169617,"frozenset({'Gardeners Kneeling Pad Keep Calm', 'Gardeners Kneeling Pad Cup Of Tea'})",2
+0.024816573154941735,"frozenset({'Green Regency Teacup And Saucer', 'Pink Regency Teacup And Saucer'})",2
+0.02017695295640915,"frozenset({'Green Regency Teacup And Saucer', 'Regency Cakestand 3 Tier'})",2
+0.029186447993094517,"frozenset({'Green Regency Teacup And Saucer', 'Roses Regency Teacup And Saucer'})",2
+0.021957272334915838,"frozenset({'Heart Of Wicker Large', 'Heart Of Wicker Small'})",2
+0.02945619335347432,"frozenset({'Jumbo Bag Red Retrospot', 'Jumbo Bag Pink Polkadot'})",2
+0.02233491583944756,"frozenset({'Jumbo Bag Strawberry', 'Jumbo Bag Red Retrospot'})",2
+0.021363832542080276,"frozenset({'Jumbo Bag Red Retrospot', 'Jumbo Shopper Vintage Red Paisley'})",2
+0.023413897280966767,"frozenset({'Jumbo Bag Red Retrospot', 'Jumbo Storage Bag Suki'})",2
+0.022928355632283126,"frozenset({'Jumbo Bag Red Retrospot', 'Lunch Bag Red Retrospot'})",2
+0.022712559343979283,"frozenset({'Lunch Bag  Black Skull.', 'Lunch Bag Cars Blue'})",2
+0.025032369443245578,"frozenset({'Lunch Bag  Black Skull.', 'Lunch Bag Pink Polkadot'})",2
+0.02789167026327147,"frozenset({'Lunch Bag  Black Skull.', 'Lunch Bag Red Retrospot'})",2
+0.022550712127751404,"frozenset({'Lunch Bag  Black Skull.', 'Lunch Bag Spaceboy Design'})",2
+0.02206517047906776,"frozenset({'Lunch Bag Suki Design', 'Lunch Bag  Black Skull.'})",2
+0.020986189037548553,"frozenset({'Lunch Bag Apple Design', 'Lunch Bag Red Retrospot'})",2
+0.023036253776435044,"frozenset({'Lunch Bag Pink Polkadot', 'Lunch Bag Cars Blue'})",2
+0.024708675010789813,"frozenset({'Lunch Bag Red Retrospot', 'Lunch Bag Cars Blue'})",2
+0.021094087181700475,"frozenset({'Lunch Bag Cars Blue', 'Lunch Bag Spaceboy Design'})",2
+0.021040138109624514,"frozenset({'Lunch Bag Suki Design', 'Lunch Bag Cars Blue'})",2
+0.028215364695727232,"frozenset({'Lunch Bag Pink Polkadot', 'Lunch Bag Red Retrospot'})",2
+0.025194216659473457,"frozenset({'Lunch Bag Red Retrospot', 'Lunch Bag Spaceboy Design'})",2
+0.024277082434182133,"frozenset({'Lunch Bag Suki Design', 'Lunch Bag Red Retrospot'})",2
+0.023359948208890806,"frozenset({'Lunch Bag Woodland', 'Lunch Bag Red Retrospot'})",2
+0.02039274924471299,"frozenset({'Lunch Bag Suki Design', 'Lunch Bag Spaceboy Design'})",2
+0.02184937419076392,"frozenset({'Lunch Bag Woodland', 'Lunch Bag Spaceboy Design'})",2
+0.024331031506258094,"frozenset({'Paper Chain Kit Vintage Christmas', ""Paper Chain Kit 50'S Christmas""})",2
+0.020986189037548553,"frozenset({'Spotty Bunting', 'Party Bunting'})",2
+0.02352179542511869,"frozenset({'Roses Regency Teacup And Saucer', 'Pink Regency Teacup And Saucer'})",2
+0.024546827794561934,"frozenset({'White Hanging Heart T-Light Holder', 'Red Hanging Heart T-Light Holder'})",2
+0.022658610271903322,"frozenset({'Roses Regency Teacup And Saucer', 'Regency Cakestand 3 Tier'})",2
+0.025248165731549418,"frozenset({'Wooden Frame Antique White', 'Wooden Picture Frame White Finish'})",2
+0.021040138109624514,"frozenset({'Green Regency Teacup And Saucer', 'Roses Regency Teacup And Saucer', 'Pink Regency Teacup And Saucer'})",3
